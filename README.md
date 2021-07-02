@@ -16,15 +16,9 @@
   </a>&nbsp;&nbsp;
  
 </p>
+## ➜  Coding Stats
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismail51998&show_icons=true&theme=dark&hide_border=true&hide_title=true" width="360" >
 
 
-## ➜  Coding Stats
-<!--START_SECTION:waka-->
-```text
-Python       15 hrs 41 mins  ████████████████████▓░░░░   80.29 % 
-Matlab       1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Java         1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-```
-<!--END_SECTION:waka-->
+
+
