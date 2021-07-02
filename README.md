@@ -4,7 +4,7 @@
 ## ➜  who am I ? 
 >  I am a Data Scientist and I am interested in learning everything.
 </div>
-##Where to find me :
+## where to find me :
 <p align='center'>
 <p align='left'>
   <a href="https://www.facebook.com/ismail.moatadid/">
