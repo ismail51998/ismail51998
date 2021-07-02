@@ -4,7 +4,7 @@
 ## ➜  who am I ? 
 >  I am a Data Scientist and I am interested in learning everything.
 </div>
-
+## stats
 ## Where to find me :
 <p align='center'>
 <p align='left'>
@@ -14,8 +14,7 @@
   <a href="https://www.linkedin.com/in/ismail-moatadid-224916193/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
- 
-</p></p>
-# stats 
+</p>
+
 
 <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismail51998&show_icons=true&theme=dark&hide_border=true&hide_title=true" width="400" >
