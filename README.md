@@ -17,3 +17,4 @@
  
 </p></p>
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismail51998&show_icons=true&theme=dark&hide_border=true&hide_title=true" width="400" >
+![ismail's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismail51998)
