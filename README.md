@@ -16,8 +16,8 @@
   </a>&nbsp;&nbsp;
  
 </p>
-## ➜  Coding Stats
 <div align='left'>
+## ➜  Coding Stats
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismail51998&show_icons=true&theme=dark&hide_border=true&hide_title=true" width="360" >
 </div>
 
