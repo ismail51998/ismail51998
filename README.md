@@ -16,4 +16,6 @@
   </a>&nbsp;&nbsp;
  
 </p></p>
-<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismail51998&show_icons=true&theme=dark&hide_border=true&hide_title=true" width="400" title="stats">
+## ➜  stats ? 
+
+<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismail51998&show_icons=true&theme=dark&hide_border=true&hide_title=true" width="400" >
