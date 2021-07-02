@@ -4,7 +4,6 @@
 ## ➜  who am I ? 
 >  I am a Data Scientist and I am interested in learning everything.
 </div>
-## stats
 ## Where to find me :
 <p align='center'>
 <p align='left'>
