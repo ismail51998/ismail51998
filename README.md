@@ -1,7 +1,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=ismail51998&show_icons=true&theme=dark&hide_border=true&hide_title=true" width="360" >
 <div align='left'>
 
-## ➜  wer bin ich ? 
+## ➜  who am I ? 
 >  I am a Data Scientist and I am interested in learning everything.
 </div>
 
