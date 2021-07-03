@@ -4,7 +4,7 @@
 ## ➜  who am I ? 
 >  I am a Data Scientist and I am interested in learning everything.
 </div>
-## ➜ where to find me :
+<h1> ➜ where to find me :</h1>
 <p align='center'>
 <p align='left'>
   <a href="https://www.facebook.com/ismail.moatadid/">
@@ -15,5 +15,6 @@
   </a>&nbsp;&nbsp;
 </p>
 
+<h1> ➜ STATS :</h1>
 
 <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismail51998&show_icons=true&theme=dark&hide_border=true&hide_title=true" width="400" >
