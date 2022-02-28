@@ -7,7 +7,6 @@
 <h1> ➜ where to find me :</h1>
 <p align='center'>
 <p align='left'>
-  <a href="https://www.facebook.com/ismail.moatadid/">
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ismail-moatadid-224916193/">
